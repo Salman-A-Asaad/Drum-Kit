@@ -4,4 +4,4 @@ It is a similar application that simulates playing the drums by pressing buttons
 
 ## The website
 
-[Demo]()
+[Demo](https://salman-a-asaad.github.io/Drum-Kit/)
